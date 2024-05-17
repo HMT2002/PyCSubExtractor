@@ -1,0 +1,1 @@
+python pyocr.py --folder output --image out0064.png

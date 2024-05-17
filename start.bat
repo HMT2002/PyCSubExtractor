@@ -1,0 +1,1 @@
+croppic.exe test.mp4 1700 200

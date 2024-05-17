@@ -1,0 +1,13 @@
+/build
+/croppic
+/Debug
+/dist
+*.mp4
+*.srt
+*.ass
+/backend/config.env
+*.png
+*.jpg
+/x64
+/testcutpic
+*.bmp
